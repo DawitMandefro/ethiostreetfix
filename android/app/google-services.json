@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "606993902522",
+    "project_id": "ethiostreetfix-d73f9",
+    "storage_bucket": "ethiostreetfix-d73f9.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:606993902522:android:9b6257fb67dbb3fa778b83",
+        "android_client_info": {
+          "package_name": "com.example.ethio_street_fix"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB_YH49XNK9rpArdeLRRdaASyvdnAl6Qbk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
